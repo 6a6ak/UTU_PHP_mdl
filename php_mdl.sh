@@ -2,6 +2,8 @@
 
 while true
 do
+    echo "                 PHP Module tools                 "
+    echo "________________________________________________"
     echo "1. Show PHP INI file info"
     echo "2. Check if PHP extension is installed"
     echo "3. Open PHP INI file"
